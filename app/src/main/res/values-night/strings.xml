@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signup">Not yet registered? Sign Up</string>
+    <string name="or_sign_in_with">Or sign-in with</string>
+    <string name="logout">Logout</string>
+    <string name="profile_image">profile_image</string>
+    <string name="alreadyuser">Already an user? Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="top_app_bar">Scheduler Pro</string>
+
+    <string name="my_email">ljonson@academic.rrc.ca</string>
+
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="str_date">Date</string>
+    <string name="str_time">Time</string>
+    <string name="str_title_schedule">Schedule</string>
+    <string name="str_validation_time_slot_empty">Time slot cannot be empty</string>
+    <string name="str_validation_date_empty">Date cannot be empty</string>
+    <string name="popup_title_success_schedule">Schedule confirmation</string>
+    <string name="popup_msg_success_schedule">Success!</string>
+    <string name="str_okay">Okay</string>
+    <string name="choose_date">Choose date</string>
+    <string name="choose_time">Choose time</string>
+    <string name="book_an_appointment">Book an appointment</string>
+    <string name="reports">Reports</string>
+    <string name="my_user_profile">My User Profile</string>
+    <string name="reports_fragment">reports_fragment</string>
+    <string name="profile_fragment">profile_fragment</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save">Save</string>
+
+</resources>
